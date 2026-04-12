@@ -26,3 +26,37 @@
 * **Motor de Base de Datos:** Microsoft SQL Server
 * **Modelado:** ERDPlus / DBDesigner
 * **Documentación:** Markdown para GitHub
+
+# 📐 Diseño de la Base de Datos (Primera Versión)
+
+<details>
+  <summary><b>👤 Módulo de Actores del Sistema y Perfiles Técnicos</b></summary>
+  <p align="center">
+    <br>
+    <img src="design/conceptual/first_version/img/estructura organizacional y deportistas.png" width="100%" alt="Diagrama de Usuarios y Tenistas">
+    <br>
+    <i>Gestión de datos personales, cargos, entrenadores y caracterización técnica del tenista (tipo de revés, lateralidad).</i>
+  </p>
+</details>
+
+<details>
+  <summary><b>💰 Módulo de Administración Financiera</b></summary>
+  <p align="center">
+    <br>
+    <img src="design/conceptual/first_version/img/estructura financiera.png" width="100%" alt="Diagrama de Pagos y Finanzas">
+    <br>
+    <i>Control de mensualidades, registro de transacciones, métodos de pago y estados de cuenta.</i>
+  </p>
+</details>
+
+<details>
+  <summary><b>🎾 Módulo de Gestión de Escenarios y Sesiones</b></summary>
+  <p align="center">
+    <br>
+    <img src="design/conceptual/first_version/img/control  del complejo deportivo.png" width="100%" alt="Diagrama de Operaciones"> 
+    <br>
+    <i>Planificación de sesiones de entrenamiento, disponibilidad de canchas, mantenimiento y registro visual.</i>
+  </p>
+</details>
+
+
