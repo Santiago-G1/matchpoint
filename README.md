@@ -79,5 +79,4 @@
   <br>
    El código fuente completo para la creación de tablas, relaciones y restricciones se encuentra alojado en este repositorio.
   <p></p>
-  > 📂 [**Ver archivo: create_tables.sql**](./sql_scripts/first_version/create_tables.sql)
 </details>
