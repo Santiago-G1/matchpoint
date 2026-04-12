@@ -72,8 +72,12 @@
     <i>Planificación de sesiones de entrenamiento, disponibilidad de canchas, mantenimiento y registro visual.</i>
   </p>
 </details>
-
-
- 
 </details>
 
+<details>
+  <summary><b>💻 Ver Script de Creación (SQL)</b></summary>
+  <br>
+   El código fuente completo para la creación de tablas, relaciones y restricciones se encuentra alojado en este repositorio.
+  <p></p>
+  > 📂 [**Ver archivo: create_tables.sql**](./sql_scripts/first_version/create_tables.sql)
+</details>
