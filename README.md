@@ -30,6 +30,20 @@
 # 📐 Diseño de la Base de Datos (Primera Versión)
 
 <details>
+  <summary><b>💬 Historias de usuario</b></summary>
+  <p align="center">
+    <br>
+    <a href="requirements/first_version/Historias_de_usuario.pdf">📄 Ver Documento de Historias de Usuario</a>
+    <br>
+    <i>Haga clic en el enlace para revisar los requerimientos funcionales.</i>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>🖼️ Modelo conceptual</b></summary>
+ <p> </p>
+<details>
   <summary><b>👤 Módulo de Actores del Sistema y Perfiles Técnicos</b></summary>
   <p align="center">
     <br>
@@ -59,4 +73,7 @@
   </p>
 </details>
 
+
+ 
+</details>
 
