@@ -75,7 +75,20 @@
 </details>
 
 <details>
-  <summary><b>💻 Ver Script de Creación (SQL)</b></summary>
+  <summary><b>📊 Modelo logico </b></summary>
+  <p align="center">
+    <br>
+    <img src="design/logical/first_version/logico_v1.png" width="100%" alt="Diagrama de Pagos y Finanzas">
+    <br>
+    <i>Control de mensualidades, registro de transacciones, métodos de pago y estados de cuenta.</i>
+  </p>
+</details>
+
+</details>
+</details>
+
+<details>
+  <summary><b>💻 Modelo fisico (SQL)</b></summary>
   <br>
    El código fuente completo para la creación de tablas, relaciones y restricciones se encuentra alojado en este repositorio.
   <p></p>
